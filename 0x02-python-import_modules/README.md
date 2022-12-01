@@ -1,10 +1,10 @@
-<h1>Import & module</h1>
+<h2>Import & Module</h2>
 
 Project done during <h5>Full Stack Software Engineering studies at ALX.</h5> It aims to learn how to import functions, how to create modules and how to use command line arguments in Python.
 
 
 
-<h1>Technologies</h1>
+<h2>Technologies</h2>
 
 Shell Scripts are written in Bash 4.3.11(1)
 
@@ -14,26 +14,28 @@ C files are compiled using gcc 4.8.4
 
 Tested on Ubuntu 20.04 LTS
 
-<h1>Files</h1>              
+<h2>Files</h2>              
 
-<h1>Filename	Description</h1>
+<h2>File Name	Description</h2>
 
-0-add.py:	Imports a function from the file add_0.py and prints the result
+<h5>0-add.py:</h5>	Imports a function from the file add_0.py and prints the result
 
-1-calculation.py	Imports maths functions from a file and prints the result
+<h5>1-calculation.py</h5>	Imports maths functions from a file and prints the result
 
-2-args.py	Prints the number of and the list of its arguments
+<h5>2-args.py</h5>	Prints the number of and the list of its arguments
 
-3-infinite_add.py	Prints the result of the addition of all arguments
+<h5>3-infinite_add.py</h5>	Prints the result of the addition of all arguments
 
-4-hidden_discovery.py	Prints all the names defined by a compiled module
+<h5>4-hidden_discovery.py</h5>	Prints all the names defined by a compiled module
 
-5-variable_load.py	Imports a variable from a file and prints its value
+<h5>5-variable_load.py</h5>	Imports a variable from a file and prints its value
 
-100-my_calculator.py	Imports all functions from a file and handles basics operations
+<h5>100-my_calculator.py</h5>	Imports all functions from a file and handles basics operations
 
-101-easy_print.py	Prints #pythoniscool, followed by a new line
+<h5>101-easy_print.py</h5>	Prints #pythoniscool, followed by a new line
 
-102-magic_calculation.py	Function that does exactly the same as a given Python bytecode
+<h5>102-magic_calculation.py</h5>	Function that does exactly the same as a given Python bytecode
 
-103-fast_alphabet.py	Prints the alphabet in uppercase, followed by a new line.
+<h5>103-fast_alphabet.py</h5>	Prints the alphabet in uppercase, followed by a new line.
+
+
