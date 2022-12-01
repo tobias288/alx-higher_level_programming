@@ -1,30 +1,30 @@
-Higher-level programming - Python
-Module of High-level programming and Python, carried out during Full Stack Software Engineering studies at ALX.
+<h2>Higher-Level Programming - Python</h2>
+Module of High-level programming and Python, carried out during <h6>Full Stack Software Engineering studies at ALX.</h6>
 
-Technologies
+<h2>Technologies</h2>
 Shell Scripts are written in Bash 4.3.11(1)
 Python Scripts are written with Python 3.4.3
 MySQL 5.7 (version 5.7.8-rc)
 MySQLdb, version 1.3.10
 sqlalchemy, version 1.2.5
-Tested on Ubuntu 14.04 LTS
+Tested on Ubuntu 20.04 LTS
 Projects
 All of the following folders are projects done during the studies:
 
-Project name	Description
-0x00-hello_world:	It aims to learn about variables, basics commands (print) and handle strings with Python
-0x01-python-if_else_loops_functions:	It aims to learn about if/else statements, loops, range and functions in Python
-0x02-python-import_modules:	It aims to learn how to import functions, how to create modules and how to use command line arguments in Python
-0x03-python-data_structures:	It aims to learn about lists, tuples and strings in Python
-0x04-python-more_data_structures:	It aims to learn about sets, dictionaries and functions to handle data structures like lambda, map, reduce and filter in Python
-0x05-python-exceptions:	It aims to learn about exceptions, how to use them, how to use errors and how to raise them in Python
-0x06-python-exceptions:	It aims to learn about object oriented programming (OOP), classes, objects, instances, methods and attributes in Python
-0x07-python-test_driven_development:	It aims to learn about docstrings to create and implement tests in Python
-0x08-python-more_classes:	It aims to learn about object oriented programming (OOP), Data Abstraction, Data Encapsulation, instances and classes attributes in Python
-0x09-python-everything_is_object:	It aims to learn about object oriented programming (OOP), mutability, identity and data types in Python
-0x0A-python-inheritance:	It aims to learn about inheritance, superclass, baseclass and subclass in Python
-0x0B-python-input_output:	It aims to learn how to open, read, write and append files from a script in Python
-0x0C-python-almost_a_circle:	It aims to learn about unit testing, serialization, deserialization, JSON, args and kwargs in Python
-0x0D-SQL_introduction:	It aims to learn about databases, relational databases, subqueries, tables, MySQL statements and functions
-0x0E-SQL_more_queries:	It aims to learn about how to create a new user, manage privileges for a user, PRIMARY KEY, FOREIGN KEY, constraints, subqueries, JOIN and UNION with MySQL
-0x0F-python-object_relational_mapping:	It aims to learn about how to connect to a MySQL database from a Python script, what ORM means and how to map a Python Class to a MySQL table
+<h2>Project Name	Description</h2>
+<h6>0x00-hello_world:</h6>	It aims to learn about variables, basics commands (print) and handle strings with Python
+<h6>0x01-python-if_else_loops_functions:</h6>	It aims to learn about if/else statements, loops, range and functions in Python
+<h6>0x02-python-import_modules:</h6>	It aims to learn how to import functions, how to create modules and how to use command line arguments in Python
+<h6>0x03-python-data_structures:</h6>	It aims to learn about lists, tuples and strings in Python
+<h6>0x04-python-more_data_structures:</h6>	It aims to learn about sets, dictionaries and functions to handle data structures like lambda, map, reduce and filter in Python
+<h6>0x05-python-exceptions:</h6>	It aims to learn about exceptions, how to use them, how to use errors and how to raise them in Python
+<h6>0x06-python-exceptions:</h6>	It aims to learn about object oriented programming (OOP), classes, objects, instances, methods and attributes in Python
+<h6>0x07-python-test_driven_development:</h6>	It aims to learn about docstrings to create and implement tests in Python
+<h6>0x08-python-more_classes:</h6>	It aims to learn about object oriented programming (OOP), Data Abstraction, Data Encapsulation, instances and classes attributes in Python
+<h6>0x09-python-everything_is_object:</h6>	It aims to learn about object oriented programming (OOP), mutability, identity and data types in Python
+<h6>0x0A-python-inheritance:</h6>	It aims to learn about inheritance, superclass, baseclass and subclass in Python
+<h6>0x0B-python-input_output:</h6>	It aims to learn how to open, read, write and append files from a script in Python
+<h6>0x0C-python-almost_a_circle:</h6>	It aims to learn about unit testing, serialization, deserialization, JSON, args and kwargs in Python
+<h6>0x0D-SQL_introduction:</h6>	It aims to learn about databases, relational databases, subqueries, tables, MySQL statements and functions
+<h6>0x0E-SQL_more_queries:</h6>	It aims to learn about how to create a new user, manage privileges for a user, PRIMARY KEY, FOREIGN KEY, constraints, subqueries, JOIN and UNION with MySQL
+<h6>0x0F-python-object_relational_mapping:</h6>	It aims to learn about how to connect to a MySQL database from a Python script, what ORM means and how to map a Python Class to a MySQL table
