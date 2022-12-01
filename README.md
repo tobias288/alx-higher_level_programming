@@ -1,5 +1,5 @@
 <h2>Higher-Level Programming - Python</h2>
-Module of High-level programming and Python, carried out during <h6>Full Stack Software Engineering studies at ALX.</h6>
+Module of High-level programming and Python, carried out during <h5>Full Stack Software Engineering studies at ALX.</h5>
 
 <h2>Technologies</h2>
 Shell Scripts are written in Bash 4.3.11(1)
