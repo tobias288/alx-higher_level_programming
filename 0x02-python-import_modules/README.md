@@ -6,9 +6,9 @@ Project done during Full Stack Software Engineering studies at Holberton School.
 
 Technologies
 
-Shell Scripts are written in Bash 4.3.11(1)
+Shell Scripts are written in Bash 20.04
 
-Python Scripts are written with Python 3.4.3
+Python Scripts are written with Python 3.8.5
 
 C files are compiled using gcc 4.8.4
 
