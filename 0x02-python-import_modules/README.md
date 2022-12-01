@@ -1,24 +1,24 @@
-Import & modules
+<h1>Import & module</h1>
 
-Project done during Full Stack Software Engineering studies at Holberton School. It aims to learn how to import functions, how to create modules and how to use command line arguments in Python.
+Project done during <h5>Full Stack Software Engineering studies at ALX.</h5> It aims to learn how to import functions, how to create modules and how to use command line arguments in Python.
 
 
 
-Technologies
+<h1>Technologies</h1>
 
-Shell Scripts are written in Bash 20.04
+Shell Scripts are written in Bash 4.3.11(1)
 
 Python Scripts are written with Python 3.8.5
 
 C files are compiled using gcc 4.8.4
 
-Tested on Ubuntu 14.04 LTS
+Tested on Ubuntu 20.04 LTS
 
-Files
+<h1>Files</h1>              
 
-Filename	Description
+<h1>Filename	Description</h1>
 
-0-add.py	Imports a function from the file add_0.py and prints the result
+0-add.py:	Imports a function from the file add_0.py and prints the result
 
 1-calculation.py	Imports maths functions from a file and prints the result
 
