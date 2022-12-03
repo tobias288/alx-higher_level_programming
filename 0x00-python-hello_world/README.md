@@ -8,7 +8,7 @@ Python Scripts are written with Python 3.4.3
 C files are compiled using gcc 4.8.4
 Tested on Ubuntu 20.04 LTS
 <h2>Files</h2>
-<h2>File Name	Description</h2>
+<h2>FileName	Description</h2>
 <h5>0-run	Shell</h5> script that runs a Python script, where its name is stored in an environment variable
 <h5>1-run_inline</h5>	Shell script that runs a Python script, where Python code is saved in an environment variable
 <h5>2-print.py</h5>	Python script that prints a message
