@@ -6,7 +6,7 @@ Project done during <h5>Full Stack Software Engineering studies at ALX.</h5> It 
 
 <h2>Technologies</h2>
 
-Python Scripts are written with Python 3.4.3
+Python Scripts are written with Python 3.8.3
 
 C files are compiled using gcc 4.8.4
 
