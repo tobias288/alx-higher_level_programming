@@ -16,7 +16,7 @@ Tested on Ubuntu 20.04 LTS
 
 <h2>Files</h2>              
 
-<h2>File Name	Description</h2>
+<h2>FileName	Description</h2>
 
 <h5>0-add.py:</h5>	Imports a function from the file add_0.py and prints the result
 
