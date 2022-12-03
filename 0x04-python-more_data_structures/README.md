@@ -14,7 +14,7 @@ Tested on Ubuntu 20.04 LTS
 
 <h2>Files</h2>
 
-<h2>Filename	Description</h2>
+<h2>FileName	Description</h2>
 
 <h5>0-square_matrix_simple.py</h5>	Function that computes the square value of all integers of a matrix
 
