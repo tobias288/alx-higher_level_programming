@@ -7,7 +7,7 @@ Python Scripts are written with Python 3.4.3
 C files are compiled using gcc 4.8.4
 Tested on Ubuntu 20.04 LTS
 <h2>Files</h2>
-<h2>File Name	Description</h2>
+<h2>FileName	Description</h2>
 <h5>0-positive_or_negative.py</h5>	Prints if a number is positive, zero or negative
 <h5>1-last_digit.py</h5>	Prints the last digit of a random number
 <h5>2-print_alphabet.py</h5>	Prints the ASCII alphabet in lowercase
