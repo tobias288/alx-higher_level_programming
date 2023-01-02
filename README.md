@@ -3,7 +3,7 @@ Module of High-level programming and Python, carried out during <h5>Full Stack S
 
 <h2>Technologies</h2>
 Shell Scripts are written in Bash 4.3.11(1)
-Python Scripts are written with Python 3.4.3
+Python Scripts are written with Python 3.8.3
 MySQL 5.7 (version 5.7.8-rc)
 MySQLdb, version 1.3.10
 sqlalchemy, version 1.2.5
