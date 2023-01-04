@@ -1,11 +1,13 @@
 #!/usr/bin/python3
-class Sqaure:
-    """Class Sqaure that defines a sqaure onject
-    """
-    def __init__(self, size):
-        """Initialize method that stores the size of the sqaure
+"""Define a class Square."""
 
+
+class Square:
+    """Represent a square."""
+
+    def __init__(self, size):
+        """Initialize a new Square.
         Args:
-            parami (int): size of the sqaure
+            size (int): The size of the new square.
         """
-        self.__size = size
+        self.__size = size 
